@@ -75,12 +75,12 @@
 * Yuigo Hayano Bespoke Oxford CapToe Black /* オーダー中 */
 * J.M. Weston #330 Oxford CapToe Black Box Calf 6/E
 * Crockett & Jones Audley (Oxford CapToe) 8E x 2
-* Union Imperial Oxford CapToe U1701 25.5 E
+* Union Imperial Oxford CapToe U1701 7.5(25.5cm) 3E
 * Heinrich Dinkelacker Rio Cordban DarkBrown 42
 * J.M. Weston #180 Signiture Loafer Black Box Calf 6D
 * Birkenstock Gilford 40
 * Birkenstock Menphis 41
-* ECCO BIOM 26.0
+* ECCO BIOM 26.0cm
 * PaulStuart Leather Sneaker
 * KEEN アウトドアシューズ ジャスパー M 1014036 (Demitasse/Brown Sugar/26.5)
 * Crogs サンダル
