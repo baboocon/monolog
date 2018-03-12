@@ -10,51 +10,82 @@
 * かえうち x 3
 * iPod Classic 160GB
 
-#### Cloths
+### Cloths
+
+#### Suits
 
 * Brioni スーツ (ブルーグレイ)
-* Sartoria Promessa オーダーメイドスーツ (ブルーグレイ)
+* Sartoria Promessa オーダーメイドスーツ (ブルーグレイ) /* オーダー中 */
 * 銀座山形屋 オーダーメイドスーツ (ネイビー)
 * 礼服 上下
-* Indivisualized Shirts
+
+#### Shirts
+
+* Indivisualized Shirts ボタンダウンシャツ スリムフィット 15h
+* Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39 /* オーダー中 */
+* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ) x 2
 * YAECA コンフォートシャツ リラックス (白) x 2
 * YAECA コンフォートシャツ リラックス (グレー)
 * A.P.C. ボタンダウンシャツ
-* HITOYOSHIシャツ x 2
-* UNITED ALLOWS Beauty & Youth ボタンダウンシャツ
-* 麻布テーラー オーダーメイドシャツ x 2
-* 高島屋 オーダーメイドシャツ x 3
+* UNITED ALLOWS Beauty & Youth ボタンダウンシャツ 白
+* UNITED ALLOES Beauty & Youth ボタンダウンシャツ グレー
+* 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン /* オーダー中 */
+* 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー /* オーダー中 */
+* 麻布テーラー オーダーシャツ x 2
+* 高島屋 オーダーシャツ x 3
+* 半袖ワイシャツ
+* 長袖ワイシャツ
+* Tシャツ ボーダー
+
+#### Coat
+
 * The Scotch House ダウンコート
 * コート
-* ネクタイ x 3
+
+#### Ties
+
+* Brioni ネクタイ
+* 五大陸 ネクタイ
+* 礼服用 黒ネクタイ
+
+#### Jackets
+
 * ジャケット x 3
+
+#### Pants
+
 * UNIQLO ジーンズ x 2
-* ハイソックス x 2
+
+#### Underware
+
+* SEEK ハイソックス 品番:SXD101 x 4
 * 靴下屋 ソックス
 * UNIQLO ソックス
 * グンゼ SEEK 肌着 キャメル
 * トランクス メリノウール x 3
 * トランクス UNIQLO
-* 半袖ワイシャツ
-* 長袖ワイシャツ
-* Tシャツ ボーダー
+
+#### Goods
+
 * ネクタイピン x 2
+* カフス
 
-#### Shoes
+### Shoes
 
-* Yuigo Hayano Bespoke Oxford CapToe Black (予定)
-* J.M. Weston No.330 Oxford CapToe Black Box Calf 6/E
+* Yuigo Hayano Bespoke Oxford CapToe Black /* オーダー中 */
+* J.M. Weston #330 Oxford CapToe Black Box Calf 6/E
 * Crockett & Jones Audley (Oxford CapToe) 8E x 2
-* Union Imperial Oxford CapToe 25.5
-* Heinrich Dinkelacker Rio Cordban DarkBrown
+* Union Imperial Oxford CapToe U1701 25.5 E
+* Heinrich Dinkelacker Rio Cordban DarkBrown 42
+* J.M. Weston #180 Signiture Loafer Black Box Calf 6D
 * Birkenstock Gilford 40
 * Birkenstock Menphis 41
 * ECCO BIOM 26.0
 * PaulStuart Leather Sneaker
-* KEEN 26.0
+* KEEN アウトドアシューズ ジャスパー M 1014036 (Demitasse/Brown Sugar/26.5)
 * Crogs サンダル
 
-#### Bags & Accessories
+### Bags & Accessories
 
 * リュックサック (Masterpiece)
 * ショルダーバッグ (Porter)
@@ -64,23 +95,26 @@
 * Samsonite キャリーケース ARK 36L ブラック
 * GRAND SEIKO 腕時計 SBGH045
 * SEIKO 腕時計
+* CASIO ソーラー電波腕時計
 * Rasp Yen Wallet (JOHN LOBB)
 * 薄い財布 ブッテーロ・レザーエディション (abrasus)
 * 小さい財布 ブッテーロ・レザーエディション (abrasus)
 * 眼鏡 (lunor)
 
-#### Cooking Tools & Tableware
+### Cooking Tools & Tableware
 
 * 子の日 青本焼 柳刃包丁 尺
 * 子の日 楓 本焼 柳刃包丁 9寸
 * 子の日 青極上カスミ 柳刃包丁 8寸
 * 子の日 NENOX IW ペティナイフ 150mm
+* シリット シラルガン シコーマチック Tプラス 圧力鍋
+* グリーンパン 片手鍋
 * 漆器めぐる・日月(花塗り・黒) 三つ組
 * 漆器めぐる・日月(拭き漆・黒) 三つ組
 * urujyu 飯茶碗
 * 春慶塗 汁椀
 
-#### Furniture & Appliances
+### Furniture & Appliances
 
 * ローテーブル (MUKU工房 PROTO No.611 テーブルをローテーブルに改造)
 * アーロンチェア Bサイズ
@@ -95,22 +129,22 @@
 * 象印 IH圧力鍋
 * 洗濯機
 
-#### Books & Comics
+### Books & Comics
 
 * 段ボール4箱分 (自宅)
 * 段ボール7箱分 (実家)
 
-#### Audio
+### Audio
 
 * JBL Speaker 4312M Ⅱ
 * TEAC TurnTable TN-570
 * ONKYO PreMainAmp R-N855
 
-#### Miscellaneneous goods
+### Miscellaneneous goods
 
 * 段ボール7箱分
 
-#### Web Services
+### Web Services
 
 * iCloud 25GB \2,500/year
 * Amazon Prime \3,900/year
