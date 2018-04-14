@@ -15,26 +15,37 @@
 #### Suits
 
 * Brioni スーツ (ブルーグレイ)
-* Sartoria Promessa オーダーメイドスーツ (ブルーグレイ) /* オーダー中 */
+* Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ)
+* 銀座山形屋 オーダーメイドスーツ (グレイ)
 * 銀座山形屋 オーダーメイドスーツ (ネイビー)
 * 礼服 上下
 
 #### Shirts
 
-* Indivisualized Shirts ボタンダウンシャツ スリムフィット 15h
+##### Dress Shirts
+
+* 南シャツ オーダーシャツ DJA セミワイドカラー 白 /* オーダー中 */
+* 南シャツ オーダーシャツ DJA セミワイドカラー サックスブルー /* オーダー中 */
+* LES LESTON オーダーシャツ ブロード セミワイドカラー 白 /* オーダー中 */
+* 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン
+* 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー
+* 若林シャツ オーダーシャツ ブロード セミワイドカラー 白 /* オーダー中 */
+* 麻布テーラー オーダーシャツ x 2
+* 高島屋 オーダーシャツ x 3
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39 /* オーダー中 */
+* 長袖ワイシャツ
+* 半袖ワイシャツ
+
+##### Casual Shirts
+
+* 若林シャツ オーダーシャツ オックスフォード セミワイドカラー 白(カジュアル用) /* オーダー中 */
+* Indivisualized Shirts ボタンダウンシャツ スリムフィット 15h
 * HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ) x 2
 * YAECA コンフォートシャツ リラックス (白) x 2
 * YAECA コンフォートシャツ リラックス (グレー)
 * A.P.C. ボタンダウンシャツ
 * UNITED ALLOWS Beauty & Youth ボタンダウンシャツ 白
 * UNITED ALLOES Beauty & Youth ボタンダウンシャツ グレー
-* 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン /* オーダー中 */
-* 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー /* オーダー中 */
-* 麻布テーラー オーダーシャツ x 2
-* 高島屋 オーダーシャツ x 3
-* 半袖ワイシャツ
-* 長袖ワイシャツ
 * Tシャツ ボーダー
 
 #### Coat
@@ -45,6 +56,7 @@
 #### Ties
 
 * Brioni ネクタイ
+* Sartoria Promessa ネクタイ
 * 五大陸 ネクタイ
 * 礼服用 黒ネクタイ
 
@@ -54,6 +66,7 @@
 
 #### Pants
 
+* コットンパンツ 白
 * UNIQLO ジーンズ x 2
 
 #### Underware
@@ -72,18 +85,23 @@
 
 ### Shoes
 
-* Yuigo Hayano Bespoke Oxford CapToe Black /* オーダー中 */
-* J.M. Weston #330 Oxford CapToe Black Box Calf 6/E
-* Crockett & Jones Audley (Oxford CapToe) 8E x 2
-* Union Imperial Oxford CapToe U1701 7.5(25.5cm) 3E
-* Heinrich Dinkelacker Rio Cordban DarkBrown 42
+* Yuigo Hayano Bespoke CapToe Oxford Black /* オーダー中 */
+* JOHN LOBB City 2 CapToe Oxford Black 6EE
+* J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
+* Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
+* Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E x 2
+* RENDO R7701D CapToe Oxford ラバーソール 7E(25.0cm)
+* Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
+* Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5 /* オーダー中 */
+* Heinrich Dinkelacker Rio FullBrogue Derby Cordovan DarkBrown UK/8
 * J.M. Weston #180 Signiture Loafer Black Box Calf 6D
+* J.M. Weston #641 Golf ApronFront Derby Dark Brown NovoCalf 6E
 * Birkenstock Gilford 40
 * Birkenstock Menphis 41
-* ECCO BIOM 26.0cm
+* ECCO BIOM Venture 26.0cm
 * PaulStuart Leather Sneaker
 * KEEN アウトドアシューズ ジャスパー M 1014036 (Demitasse/Brown Sugar/26.5)
-* Crogs サンダル
+* Crocs サンダル
 
 ### Bags & Accessories
 
