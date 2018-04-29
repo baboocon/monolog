@@ -68,7 +68,7 @@
 
 #### Pants
 
-* コットンパンツ 白
+* PT01 コットンパンツ 白
 * UNIQLO ジーンズ x 2
 
 #### Underware
@@ -96,7 +96,7 @@
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5 /* オーダー中 */
 * Heinrich Dinkelacker Rio FullBrogue Derby Cordovan DarkBrown UK/8
-* J.M. Weston #180 Signiture Loafer Black Box Calf 6D
+* J.M. Weston #180 Signature Loafer Black Box Calf 6D
 * J.M. Weston #641 Golf ApronFront Derby Dark Brown NovoCalf 6E
 * Birkenstock Gilford 40
 * Birkenstock Menphis 41
@@ -107,8 +107,8 @@
 
 ### Bags & Accessories
 
-* リュックサック (Masterpiece)
-* ショルダーバッグ (Porter)
+* Masterpiece リュックサック
+* Porter ショルダーバッグ
 * Ace Gene ビジネスバッグ
 * DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ
 * 土屋鞄製造所 トートバッグ ブラウン
@@ -169,11 +169,20 @@
 
 * 段ボール7箱分
 
-### Web Services
+### Communications & Web Services
+
+#### Communications
+
+* BIGLOBE モバイル 音声通話付 Aプラン 3GB nano SIM \1,731/month
+* mineo Dプラン シングルタイプ 3GB micro SIM \972/month
+* Softbank Air \4,106/month
+
+#### Web Services
 
 * iCloud 25GB \2,500/year
 * Amazon Prime \3,900/year
-* Office 365 \6,264/year
-* Evernote premium \5,200/year
+* Office 365 (Let'sNote RZ6用) \6,264/year /* 解約してもいいか？ */
+* Evernote プラス $34.99(約\3900)/year
 * Dropbox plus \12,960/year
-* ムームードメイン
+* ムームードメイン baboocon.com \1,382/year /* ペパボの株主優待ポイントを充当 */
+* ムームードメイン bookworminimalist.com \1,382/year /* ペパボの株主優待ポイントを充当 */
