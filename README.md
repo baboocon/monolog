@@ -6,11 +6,11 @@
 * Let'sNote CF-R9
 * 自作PC (Ryzen7)
 * iPhone8 256GB (SIM Free)
-* au feature phone GRATINA
+* au feature phone GRATINA /* 処分予定 */
 * ScanSnap ix500
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
 * かえうち x 3
-* iPod Classic 160GB
+* iPod Classic 160GB /* 売却予定 */
 
 ### Cloths
 
@@ -20,7 +20,7 @@
 * Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ)
 * 銀座山形屋 オーダーメイドスーツ (グレイ ピンストライプ)
 * 銀座山形屋 オーダーメイドスーツ (ネイビー)
-* 礼服 上下
+* 洋服の青山 礼服 上下
 
 #### Shirts
 
@@ -31,7 +31,7 @@
 * LES LESTON オーダーシャツ ブロード セミワイドカラー 白 /* オーダー中 */
 * 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン
 * 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー
-* 若林シャツ オーダーシャツ ブロード セミワイドカラー 白 /* オーダー中 */
+* 若林シャツ オーダーシャツ ブロード セミワイドカラー 白
 * 麻布テーラー オーダーシャツ x 2
 * 高島屋 オーダーシャツ x 3
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39 /* オーダー中 */
@@ -40,7 +40,7 @@
 
 ##### Casual Shirts
 
-* 若林シャツ オーダーシャツ オックスフォード セミワイドカラー 白(カジュアル用) /* オーダー中 */
+* 若林シャツ オーダーシャツ オックスフォード ボタンダウン 白(カジュアル用)
 * Indivisualized Shirts ボタンダウンシャツ スリムフィット 15h
 * HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ) x 2
 * YAECA コンフォートシャツ リラックス (白) x 2
@@ -91,7 +91,7 @@
 * JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
-* Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E x 2
+* Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * RENDO R7701D CapToe Oxford ラバーソール 7E(25.0cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5 /* オーダー中 */
@@ -145,8 +145,8 @@
 * アーロンチェア Bサイズ
 * 本棚屋 本棚
 * ちゃぶ台
-* アイロン x 2
-* アイロン台 x 2
+* アイロン
+* アイロン台
 * ゴミ箱
 * 無印良品 収納ケース x 3
 * 冷蔵庫
