@@ -93,6 +93,7 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * RENDO R7701D CapToe Oxford ラバーソール 7E(25.0cm)
+* RENDO R7708 FullBrogue Oxford パターンオーダー アノネイ アニリンカーフ Black 7E(25.0cm) /* オーダー中 */
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5 /* オーダー中 */
 * Heinrich Dinkelacker Rio FullBrogue Derby Cordovan DarkBrown UK/8
@@ -144,7 +145,6 @@
 * ローテーブル (MUKU工房 PROTO No.611 テーブルをローテーブルに改造)
 * アーロンチェア Bサイズ
 * 本棚屋 本棚
-* ちゃぶ台
 * アイロン
 * アイロン台
 * ゴミ箱
