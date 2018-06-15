@@ -17,26 +17,27 @@
 #### Suits
 
 * Brioni スーツ (ブルーグレイ)
-* Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ)
+* Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ) 2パンツ
 * 銀座山形屋 オーダーメイドスーツ (グレイ ピンストライプ)
-* 銀座山形屋 オーダーメイドスーツ (ネイビー)
+* 麻布テーラー オーダーメイドスーツ (ネイビー) 夏物スーツ /* オーダー中 */
+* 洋服の青山 夏物スーツ (ネイビー) 2パンツ
+* 洋服の青山 夏物スーツ (グレー) 2パンツ
 * 洋服の青山 礼服 上下
 
 #### Shirts
 
 ##### Dress Shirts
 
-* 南シャツ オーダーシャツ DJA セミワイドカラー 白 /* オーダー中 */
-* 南シャツ オーダーシャツ DJA セミワイドカラー サックスブルー /* オーダー中 */
+* 南シャツ オーダーシャツ DJA セミワイドカラー 白
+* 南シャツ オーダーシャツ DJA セミワイドカラー サックスブルー
 * LES LESTON オーダーシャツ ブロード セミワイドカラー 白 /* オーダー中 */
+* Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39
 * 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン
 * 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー
 * 若林シャツ オーダーシャツ ブロード セミワイドカラー 白
 * 麻布テーラー オーダーシャツ x 2
 * 高島屋 オーダーシャツ x 3
-* Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39 /* オーダー中 */
 * 長袖ワイシャツ
-* 半袖ワイシャツ
 
 ##### Casual Shirts
 
@@ -57,6 +58,7 @@
 
 #### Ties
 
+* E. Marinella Napoli ネクタイ ボルドー
 * Brioni ネクタイ
 * Sartoria Promessa ネクタイ
 * 五大陸 ネクタイ
@@ -64,10 +66,11 @@
 
 #### Jackets
 
-* ジャケット x 3
+* ジャケット x 2
 
 #### Pants
 
+* Pantalonaio Osaku Hayato トラウザーズ セミビスポーク
 * PT01 コットンパンツ 白
 * UNIQLO ジーンズ x 2
 
@@ -90,6 +93,9 @@
 * Yuigo Hayano Bespoke CapToe Oxford Black /* オーダー中 */
 * JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
+* J.M. Weston #180 Signature Loafer Black Box Calf 6D
+* J.M. Weston #641 Golf ApronFront Derby Dark Brown NovoCalf 6E
+* J.M. Weston #641 Golf ApronFront Derby Black RussianCalf 6D
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * RENDO R7701D CapToe Oxford ラバーソール 7E(25.0cm)
@@ -97,8 +103,6 @@
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5 /* オーダー中 */
 * Heinrich Dinkelacker Rio FullBrogue Derby Cordovan DarkBrown UK/8
-* J.M. Weston #180 Signature Loafer Black Box Calf 6D
-* J.M. Weston #641 Golf ApronFront Derby Dark Brown NovoCalf 6E
 * Birkenstock Gilford 40
 * Birkenstock Menphis 41
 * ECCO BIOM Venture 26.0cm
@@ -112,6 +116,7 @@
 * Porter ショルダーバッグ
 * Ace Gene ビジネスバッグ
 * DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ
+* 土屋鞄製造所 Plota 防水ショルダーバッグ ブラウン
 * 土屋鞄製造所 トートバッグ ブラウン
 * Samsonite キャリーケース ARK 36L ブラック
 * GRAND SEIKO 腕時計 SBGH045
