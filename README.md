@@ -6,7 +6,6 @@
 * Let'sNote CF-R9
 * 自作PC (Ryzen7) /* 解体して部品を売却予定 */
 * iPhoneXs スペースグレイ 256GB (SIM Free)
-* iPhone8 シルバー 256GB (SIM Free)
 * ScanSnap ix500
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
 * かえうち x 3
@@ -28,14 +27,15 @@
 
 ##### Dress Shirts
 
-* 南シャツ ビスポークシャツ カルロ・リーバ ポプリン ブルー無地 セミワイドカラー /* オーダー中 */
-* 南シャツ ビスポークシャツ DJA シーアイランドコットン 200/2 ブルーストライプ セミワイドカラー /* オーダー中 */
+* 南シャツ ビスポークシャツ カルロ・リーバ ポプリン ブルー無地 セミワイドカラー
+* 南シャツ ビスポークシャツ DJA シーアイランドコットン 200/2 ブルーストライプ セミワイドカラー
 * 南シャツ ビスポークシャツ ALUMO 170/2 ツイル セミワイドカラー 白
 * 南シャツ ビスポークシャツ THOMAS MASON アメリカンオックスフォード ボタンダウン カジュアルシャツ
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
-* LES LESTON オーダーシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー /* オーダー中 */
-* LES LESTON オーダーシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
+* 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目) /* オーダー中 */
+* LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー /* オーダー中 */
+* LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39
 * 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン
 * 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー
@@ -64,13 +64,14 @@
 
 #### Coat
 
+* Aquascutam ステンカラーコート ネイビー
 * The Scotch House ダウンコート
 * コート
 
 #### Ties
 
-* E. Marinella Napoli セッテピエゲ ネクタイ 紺地 白水玉
-* E. Marinella Napoli セッテピエゲ ネクタイ ボルドー
+* E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
+* E. Marinella Napoli セッテピエゲ ニット ネクタイ ボルドー
 * Brioni ネクタイ
 * Sartoria Promessa ネクタイ
 * 五大陸 ネクタイ
@@ -183,14 +184,14 @@
 
 ### Books & Comics
 
-* 段ボール4箱分 (自宅)
+* 段ボール4箱分 (自宅) /* 要・再カウント */
 * 段ボール7箱分 (実家)
 
 ### Audio
 
-* JBL Speaker 4312M Ⅱ
-* TEAC TurnTable TN-570
-* ONKYO PreMainAmp R-N855
+* JBL Speaker 4312M Ⅱ      /* 売却予定 */
+* TEAC TurnTable TN-570    /* 売却予定 */
+* ONKYO PreMainAmp R-N855  /* 売却予定 */
 
 ### Miscellaneneous goods
 
@@ -200,16 +201,15 @@
 
 #### Communications
 
-* BIGLOBE モバイル 音声通話付 Aプラン 3GB nano SIM \1,731/month
-* mineo Dプラン シングルタイプ 3GB micro SIM \974/month
 * Softbank Air \4,106/month
+* BIGLOBE モバイル 音声通話付 Aプラン 3GB nano SIM \1,731/month
+* mineo Dプラン シングルタイプ 3GB micro SIM \974/month /* 解約したい */
 
 #### Web Services
 
 * iCloud 25GB \2,500/year
 * Amazon Prime \3,900/year
 * Office 365 (Let'sNote RZ6用) \6,264/year /* 解約してもいいか？ */
-* Evernote プラス $34.99(約\3900)/year /* 更新はしない予定 */
 * Dropbox plus \12,960/year
 * ムームードメイン baboocon.com \1,382/year /* ペパボの株主優待ポイントを充当 */
 * ムームードメイン bookworminimalist.com \1,382/year /* ペパボの株主優待ポイントを充当 */
