@@ -43,16 +43,20 @@
 * 高島屋 オーダーシャツ ダンヒル
 * 高島屋 オーダーシャツ ミラ・ショーン
 * 高島屋 オーダーシャツ ランバン
-* 麻布テーラー オーダーシャツ x 2
+* 麻布テーラー オーダーシャツ
+* 麻布テーラー オーダーシャツ
 * カミチャニスタ ドレスシャツ セミワイドカラー 白
-* デッコーロウォモ ドレスシャツ 半袖 ピュアホワイト Sサイズ x 2
+* デッコーロウォモ ドレスシャツ 半袖 ピュアホワイト Sサイズ
+* デッコーロウォモ ドレスシャツ 半袖 ピュアホワイト Sサイズ
 
 ##### Casual Shirts
 
 * 若林シャツ オーダーシャツ オックスフォード ボタンダウン 白(カジュアル用)
 * Indivisualized Shirts ボタンダウンシャツ スリムフィット 15h
-* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ) x 2
-* YAECA コンフォートシャツ リラックス 白 x 2
+* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ)
+* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ)
+* YAECA コンフォートシャツ リラックス 白
+* YAECA コンフォートシャツ リラックス 白
 * YAECA コンフォートシャツ リラックス グレー
 * YAECA コンフォートシャツ スタンダード ショート 白 SMALLサイズ
 * YAECA バスクシャツ 白 SMALLサイズ
@@ -121,8 +125,8 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
-* RENDO R7708 FullBrogue Oxford パターンオーダー アノネイ アニリンカーフ Black 7(25.0cm)
-* RENDO GB001 Apronfront Derby パターンオーダー 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッド→バーガンディに染め 7(25.0cm) /*オーダー中 */
+* RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
+* RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッド→バーガンディに染め 7(25.0cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5
 * Birkenstock Gilford 40
