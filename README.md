@@ -30,11 +30,10 @@
 * 南シャツ ビスポークシャツ カルロ・リーバ ポプリン ブルー無地 セミワイドカラー
 * 南シャツ ビスポークシャツ DJA シーアイランドコットン 200/2 ブルーストライプ セミワイドカラー
 * 南シャツ ビスポークシャツ ALUMO 170/2 ツイル セミワイドカラー 白
-* 南シャツ ビスポークシャツ THOMAS MASON アメリカンオックスフォード ボタンダウン カジュアルシャツ
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
 * 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目) /* オーダー中 */
-* LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー /* オーダー中 */
+* LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
 * LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39
 * 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン
@@ -51,6 +50,7 @@
 
 ##### Casual Shirts
 
+* 南シャツ ビスポークシャツ THOMAS MASON アメリカンオックスフォード ボタンダウン カジュアルシャツ
 * 若林シャツ オーダーシャツ オックスフォード ボタンダウン 白(カジュアル用)
 * Indivisualized Shirts ボタンダウンシャツ スリムフィット 15h
 * HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ)
@@ -90,10 +90,12 @@
 
 * Pantalonaio Osaku Hayato スラックス MTM
 * SHIPS スラックス グレイ
-* JACOB COHEN デニムジーンズ
+* JACOB COHEN デニムジーンズ 30/73.5
 * PT01 コットンパンツ 白
 * UNIQLO コーデュロイパンツ ブラウン
-* UNIQLO ジーンズ x 2
+* UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
+* UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 30/76 黒
+* UNIQLO スキニーフィットジーンズ テーパード 30/76
 
 #### Underware
 
@@ -126,7 +128,7 @@
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
-* RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッド→バーガンディに染め 7(25.0cm)
+* RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5
 * Birkenstock Gilford 40
@@ -149,6 +151,7 @@
 * SEIKO 腕時計
 * CASIO ソーラー電波腕時計 /* 売却したい */
 * Rasp Yen Wallet (JOHN LOBB)
+* MIC（ミック）コードバン ラウンドファスナー小銭入れ 黒
 * 薄い財布 ブッテーロ・レザーエディション (abrasus)
 * 小さい財布 ブッテーロ・レザーエディション (abrasus)
 * 眼鏡 (lunor)
@@ -184,7 +187,7 @@
 * 冷蔵庫
 * ヘルシオ ウォーターオーブン 31L
 * 象印 IH圧力鍋 /* 廃棄予定 */
-* 洗濯機
+* 洗濯機（ハイアール製）
 
 ### Books & Comics
 
@@ -207,7 +210,6 @@
 
 * Softbank Air \4,106/month
 * BIGLOBE モバイル 音声通話付 Aプラン 3GB nano SIM \1,731/month
-* mineo Dプラン シングルタイプ 3GB micro SIM \974/month /* 解約したい */
 
 #### Web Services
 
@@ -218,3 +220,4 @@
 * ムームードメイン baboocon.com \1,382/year /* ペパボの株主優待ポイントを充当 */
 * ムームードメイン bookworminimalist.com \1,382/year /* ペパボの株主優待ポイントを充当 */
 * あすけん ダイエットアプリ プレミアム会員 \300/month
+* 少年ジャンプ＋定期購読 \960/month
