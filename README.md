@@ -75,6 +75,7 @@
 #### Ties
 
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
+* E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 小紋
 * E. Marinella Napoli セッテピエゲ ニット ネクタイ ボルドー
 * Brioni ネクタイ
 * Sartoria Promessa ネクタイ
@@ -99,7 +100,8 @@
 
 #### Underware
 
-* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング(M) x 5
+* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング(S) x 5
+* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング(M) x 3
 * SEEK ロングホーズ 品番:SXD101 x 4
 * 靴下屋 ソックス
 * UNIQLO ソックス
@@ -118,7 +120,7 @@
 
 ### Shoes
 
-* Yuigo Hayano Bespoke CapToe Oxford Black /* オーダー中 */
+* Yuigo Hayano Bespoke CapToe Oxford Black
 * JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
 * J.M. Weston #180 Signature Loafer Black Box Calf 6D
@@ -126,6 +128,7 @@
 * J.M. Weston #641 Golf ApronFront Derby Black RussianCalf 6D
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
+* Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
