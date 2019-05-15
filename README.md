@@ -39,28 +39,28 @@
 * 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン
 * 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー
 * 若林シャツ オーダーシャツ ブロード セミワイドカラー 白
-* 高島屋 オーダーシャツ ダンヒル
-* 高島屋 オーダーシャツ ミラ・ショーン
-* 高島屋 オーダーシャツ ランバン
+* 高島屋 オーダーシャツ ダンヒル /* 廃棄 */
+* 高島屋 オーダーシャツ ミラ・ショーン /* 廃棄 */
+* 高島屋 オーダーシャツ ランバン /* 廃棄 */
 * 麻布テーラー オーダーシャツ
-* 麻布テーラー オーダーシャツ
+* 麻布テーラー オーダーシャツ /* 廃棄 */
 * カミチャニスタ ドレスシャツ セミワイドカラー 白
 * デッコーロウォモ ドレスシャツ 半袖 ピュアホワイト Sサイズ
 * デッコーロウォモ ドレスシャツ 半袖 ピュアホワイト Sサイズ
 
 ##### Casual Shirts
 
-* 南シャツ ビスポークシャツ THOMAS MASON アメリカンオックスフォード ボタンダウン カジュアルシャツ
+* 南シャツ ビスポークシャツ THOMAS MASON アメリカンオックスフォード ボタンダウン ブルー カジュアルシャツ
 * 若林シャツ オーダーシャツ オックスフォード ボタンダウン 白(カジュアル用)
 * Indivisualized Shirts ボタンダウンシャツ スリムフィット 15h
-* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ)
-* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ)
-* YAECA コンフォートシャツ リラックス 白
+* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ) /* 廃棄 */
+* HITOYOSHIシャツ 白いヘビーオックスのボタンダウン サイズ46(Mサイズ) /* 廃棄 */
+* YAECA コンフォートシャツ リラックス 白 /* 廃棄 */
 * YAECA コンフォートシャツ リラックス 白
 * YAECA コンフォートシャツ リラックス グレー
 * YAECA コンフォートシャツ スタンダード ショート 白 SMALLサイズ
 * YAECA バスクシャツ 白 SMALLサイズ
-* A.P.C. ボタンダウンシャツ
+* A.P.C. ボタンダウンシャツ /* 廃棄 */
 * UNITED ALLOWS Beauty & Youth ボタンダウンシャツ 白
 * UNITED ALLOES Beauty & Youth ボタンダウンシャツ グレー
 * SHINYA 半袖Tシャツ 白 Mサイズ
@@ -70,17 +70,17 @@
 
 * Aquascutam ステンカラーコート ネイビー
 * The Scotch House ダウンコート
-* コート
+* コート /* 廃棄 */
 
 #### Ties
 
+* E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋 /* オーダー中 */
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 小紋
 * E. Marinella Napoli セッテピエゲ ニット ネクタイ ボルドー
+* ストラスブルゴ シルク ネクタイ 紺無地
 * Brioni ネクタイ
-* Sartoria Promessa ネクタイ
-* 五大陸 ネクタイ
-* 礼服用 黒ネクタイ
+* Sartoria Promessa シルク ネクタイ ベージュ 水玉
 
 #### Jackets
 
@@ -89,25 +89,35 @@
 
 #### Pants
 
+* Pantalonaio Osaku Hayato スラックス MTM /* オーダー中 */
 * Pantalonaio Osaku Hayato スラックス MTM
 * SHIPS スラックス グレイ
-* JACOB COHEN デニムジーンズ 30/73.5
 * PT01 コットンパンツ 白
-* UNIQLO コーデュロイパンツ ブラウン
+* JACOB COHEN デニムジーンズ 30/73.5
 * UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
-* UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 30/76 黒 /* 廃棄予定 */
 * UNIQLO スキニーフィットジーンズ テーパード 30/76
+* UNIQLO コーデュロイパンツ ブラウン
 
 #### Underware
 
-* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング(S) x 5
-* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング(M) x 3
-* SEEK ロングホーズ 品番:SXD101 x 4
+* ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ 黒(S) x 5
+* ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ ネイビー(S) x 5
+* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(S) x 5
+* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(M) x 3 /* 廃棄？ */
+* SEEK ロングホーズ 品番:SXD101 x 1
 * 靴下屋 ソックス
 * UNIQLO ソックス
-* グンゼ SEEK 肌着 キャメル
+* グンゼ SEEK 肌着 キャメル Sサイズ x 3
+* グンゼ SEEK 肌着 キャメル Mサイズ x 2
+* グンゼ SEEK ボクサーブリーフ Mサイズ x 2
 * トランクス メリノウール x 3
 * トランクス UNIQLO
+
+### Pocket Square
+
+* CARLO RIVAの手巻きポケットチーフ（南シャツ） コットンリネン 水色 無地
+* ストラスブルゴ リネン100% 白 無地
+* ブランド不明 リネン100% 白 無地
 
 #### handkerchief
 
@@ -120,7 +130,8 @@
 
 ### Shoes
 
-* Yuigo Hayano Bespoke CapToe Oxford Black
+* Yuigo Hayano Bespoke CapToe Oxford ワインハイマー ブラック カーフ
+* Yuigo Hayano Bespoke FullBrogue Oxford ゾンタ ミディアムブラウン カーフ /* オーダー中 */
 * JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
 * J.M. Weston #180 Signature Loafer Black Box Calf 6D
@@ -133,6 +144,7 @@
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
+* Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5
 * Birkenstock Gilford 40
 * Birkenstock Menphis 41
@@ -144,11 +156,10 @@
 ### Bags & Accessories
 
 * Masterpiece リュックサック
-* Porter ショルダーバッグ
 * Ace Gene ビジネスバッグ
 * DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ
-* 土屋鞄製造所 Plota 防水ショルダーバッグ ブラウン
 * 土屋鞄製造所 トートバッグ ブラウン
+* 土屋鞄製造所 Plota 防水ショルダーバッグ ブラウン
 * Samsonite キャリーケース ARK 36L ブラック
 * GRAND SEIKO 腕時計 SBGH045
 * SEIKO 腕時計
@@ -156,7 +167,7 @@
 * Rasp Yen Wallet (JOHN LOBB)
 * MIC（ミック）コードバン ラウンドファスナー小銭入れ 黒
 * 薄い財布 ブッテーロ・レザーエディション (abrasus)
-* 小さい財布 ブッテーロ・レザーエディション (abrasus)
+* 小さい財布 ブッテーロ・レザーエディション (abrasus) /* 廃棄 */
 * 眼鏡 (lunor)
 * 眼鏡 (JINS)
 
@@ -182,7 +193,7 @@
 ### Furniture & Appliances
 
 * ローテーブル (MUKU工房 PROTO No.611 テーブルをローテーブルに改造)
-* 本棚屋 本棚
+* 本棚屋 本棚 /* 廃棄予定 */
 * アイロン
 * アイロン台
 * ゴミ箱
@@ -194,7 +205,7 @@
 
 ### Books & Comics
 
-* 段ボール4箱分 (自宅) /* 要・再カウント */
+* 段ボール4箱分 (自宅)
 * 段ボール7箱分 (実家)
 
 ### Audio
