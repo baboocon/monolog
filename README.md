@@ -2,7 +2,6 @@
 
 * iMac (Late 2013)
 * Let'sNote CF-RZ6
-* Let'sNote CF-RZ4 /* 廃棄予定 */
 * Let'sNote CF-R9 /* 廃棄予定 */
 * 自作PC (Ryzen7) /* 解体して部品を売却予定 */
 * iPhoneXs スペースグレイ 256GB (SIM Free)
@@ -14,6 +13,7 @@
 
 #### Suits
 
+* Sartoria Cavuto（サルトリア・カブト） ビスポークスーツ スリーピース（Harrisons、ネイビー無地、段返り3ボタン） /* オーダー中 */
 * 羊屋 ビスポークスーツ ツーピース（ウィンターモヘア、チャコールグレイ、段返り3ボタン）
 * Brioni スーツ (ブルーグレイ)
 * Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ) 2パンツ
@@ -27,7 +27,7 @@
 
 ##### Dress Shirts
 
-* 南シャツ ビスポークシャツ ALUMO コットンリネン サックスブルー ワイドカラー /* オーダー中 */
+* 南シャツ ビスポークシャツ ALUMO コットンリネン サックスブルー ワイドカラー
 * 南シャツ ビスポークシャツ カルロ・リーバ ポプリン ブルー無地 セミワイドカラー
 * 南シャツ ビスポークシャツ DJA シーアイランドコットン 200/2 ブルーストライプ セミワイドカラー
 * 南シャツ ビスポークシャツ ALUMO 170/2 ツイル セミワイドカラー 白
@@ -43,12 +43,10 @@
 * 高島屋 オーダーシャツ ボタンダウン ランバン
 * 麻布テーラー オーダーシャツ ボタンダウン 白無地
 * カミチャニスタ ドレスシャツ セミワイドカラー 白
-* デッコーロウォモ ドレスシャツ 半袖 ピュアホワイト Sサイズ
-* デッコーロウォモ ドレスシャツ 半袖 ピュアホワイト Sサイズ
 
 ##### Casual Shirts
 
-* 南シャツ ビスポークシャツ SICTESS オックスフォード 80/2 ボタンダウン 白 カジュアルシャツ /* オーダー中 */
+* 南シャツ ビスポークシャツ SICTESS オックスフォード 80/2 ボタンダウン 白 カジュアルシャツ
 * 南シャツ ビスポークシャツ THOMAS MASON アメリカンオックスフォード ボタンダウン ブルー カジュアルシャツ
 * 若林シャツ オーダーシャツ オックスフォード ボタンダウン 白(カジュアル用)
 * 山本ワイシャツ店 オーダーシャツ オックスフォード ボタンダウン
@@ -69,7 +67,7 @@
 
 #### Ties
 
-* E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋 /* オーダー中 */
+* E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 小紋
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺無地
@@ -88,7 +86,7 @@
 
 #### Pants
 
-* Pantalonaio Osaku Hayato スラックス MTM /* オーダー中 */
+* Pantalonaio Osaku Hayato スラックス MTM
 * Pantalonaio Osaku Hayato スラックス MTM
 * SHIPS スラックス グレイ
 * PT01 コットンパンツ 白
@@ -139,9 +137,11 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
+* KOKON パターンオーダー チャッカブーツ ダークブラウン
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
+* 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5
@@ -160,13 +160,15 @@
 * 土屋鞄製造所 トートバッグ ブラウン
 * 土屋鞄製造所 Plota 防水ショルダーバッグ ブラウン
 * Samsonite キャリーケース ARK 36L ブラック
-* GRAND SEIKO 腕時計 SBGH045
+* GRAND SEIKO 腕時計 SBGY003 スプリングドライブ20周年記念限定モデル
+* GRAND SEIKO 腕時計 SBGH045 機械式
 * SEIKO 腕時計
 * CASIO ソーラー電波腕時計 /* 売却したい */
 * Rasp Yen Wallet (JOHN LOBB)
+* HITOE 長財布 ＜厚い革＞の薄い長財布 Camello
+* HITOE 短財布2 Camello
 * MIC（ミック）コードバン ラウンドファスナー小銭入れ 黒
 * 薄い財布 ブッテーロ・レザーエディション (abrasus)
-* 小さい財布 ブッテーロ・レザーエディション (abrasus) /* 廃棄 */
 * 眼鏡 (lunor)
 * 眼鏡 (JINS)
 
@@ -230,7 +232,7 @@
 * Amazon Prime \3,900/year
 * Office 365 (Let'sNote RZ6用) \6,264/year /* 解約してもいいか？ */
 * Dropbox plus \12,960/year
-* ムームードメイン baboocon.com \1,382/year /* ペパボの株主優待ポイントを充当 */
-* ムームードメイン bookworminimalist.com \1,382/year /* ペパボの株主優待ポイントを充当 */
+* ムームードメイン baboocon.com \1,592/year /* ペパボの株主優待ポイントを充当 */
+* ムームードメイン bookworminimalist.com \1,592/year /* ペパボの株主優待ポイントを充当 */
 * あすけん ダイエットアプリ プレミアム会員 \300/month
 * 少年ジャンプ＋定期購読 \960/month
