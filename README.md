@@ -15,9 +15,10 @@
 
 * Sartoria Cavuto（サルトリア・カブト） ビスポークスーツ スリーピース（Harrisons、ネイビー無地、段返り3ボタン） /* オーダー中 */
 * 羊屋 ビスポークスーツ ツーピース（ウィンターモヘア、チャコールグレイ、段返り3ボタン）
-* Brioni スーツ (ブルーグレイ)
+* Brioni ツーピース スーツ (ブルーグレイ)
 * Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ) 2パンツ
 * 銀座山形屋 パターンオーダースーツ (グレイ ピンストライプ)
+* 松屋銀座オリジナル アトリエメイド ツーピース スーツ 段返り3ボタン ネイビー シャドーストライプ
 * 麻布テーラー パターンオーダースーツ 夏物スーツ (ネイビー)
 * 洋服の青山 夏物スーツ (ネイビー) 2パンツ
 * 洋服の青山 夏物スーツ (グレー) 2パンツ
@@ -34,6 +35,7 @@
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
 * 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目)
+* LES LESTON ビスポークシャツ カルロ・リーバ ポプリン サックスブルー無地 ワイドカラー /* オーダー中 */
 * LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
 * LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39
@@ -64,6 +66,7 @@
 
 * Aquascutam ステンカラーコート ネイビー
 * The Scotch House ダウンコート
+* Barbour Bedale ワックスジャケット Sage Green 36
 
 #### Ties
 
@@ -79,10 +82,10 @@
 
 #### Jackets
 
+* 石川和男 ビスポークジャケット ブルー無地 段返り2ボタン /* オーダー中 */
 * Sartoria Promessa パターンオーダージャケット
 * United Allows green label relaxing ネイビー無地 アンコンストラクテッド・ジャケット
 * United Allows ジャケット
-* 
 
 #### Pants
 
@@ -90,6 +93,7 @@
 * Pantalonaio Osaku Hayato スラックス MTM
 * SHIPS スラックス グレイ
 * PT01 コットンパンツ 白
+* SHINYA デニムジーンズ ネイビー サイズ2
 * JACOB COHEN デニムジーンズ 30/73.5
 * UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
 * UNIQLO スキニーフィットジーンズ テーパード 30/76
@@ -137,10 +141,11 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
-* KOKON パターンオーダー チャッカブーツ ダークブラウン
+* KOKON パターンオーダー チャッカブーツ マロン
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
+* RENDO R7704 パターンオーダー デュプイ サドルカーフ ダークブラウン 木型補正有り 7(25.0cm)
 * 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
