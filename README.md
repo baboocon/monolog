@@ -7,6 +7,7 @@
 * iPhoneXs スペースグレイ 256GB (SIM Free)
 * ScanSnap ix500
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
+* かえうち2 × 1
 * かえうち x 3
 
 ### Cloths
@@ -18,11 +19,10 @@
 * Brioni ツーピース スーツ (ブルーグレイ)
 * Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ) 2パンツ
 * 銀座山形屋 パターンオーダースーツ (グレイ ピンストライプ)
-* 松屋銀座オリジナル アトリエメイド ツーピース スーツ 段返り3ボタン ネイビー シャドーストライプ
+* 松屋銀座オリジナル アトリエメイド ツーピース スーツ 段返り3ボタン ネイビー シャドーストライプ サイズ46
 * 麻布テーラー パターンオーダースーツ 夏物スーツ (ネイビー)
 * 洋服の青山 夏物スーツ (ネイビー) 2パンツ
 * 洋服の青山 夏物スーツ (グレー) 2パンツ
-* 洋服の青山 礼服 上下 /* 廃棄予定 */
 
 #### Shirts
 
@@ -141,11 +141,12 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
-* KOKON パターンオーダー チャッカブーツ マロン
+* KOKON パターンオーダー チャッカブーツ マロン 7(25.0cm)
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
-* RENDO R7704 パターンオーダー デュプイ サドルカーフ ダークブラウン 木型補正有り 7(25.0cm)
+* RENDO R7704 パターンオーダー デュプイ サドルカーフ ダークブラウン 木型補正有り 7(25.0cm) /* オーダー中 */
+* 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm /* オーダー中 */
 * 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
@@ -214,12 +215,6 @@
 * 段ボール4箱分 (自宅)
 * 段ボール7箱分 (実家)
 
-### Audio
-
-* JBL Speaker 4312M Ⅱ      /* 売却予定 */
-* TEAC TurnTable TN-570    /* 売却予定 */
-* ONKYO PreMainAmp R-N855  /* 売却予定 */
-
 ### Miscellaneneous goods
 
 * 段ボール9箱分
@@ -228,8 +223,8 @@
 
 #### Communications
 
-* Softbank Air \4,106/month
-* BIGLOBE モバイル 音声通話付 Aプラン 3GB nano SIM \1,731/month
+* Softbank Air \4,107/month(税込)
+* BIGLOBE モバイル 音声通話付 Dプラン 3GB nano SIM \1,983/month(税込)
 
 #### Web Services
 
