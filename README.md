@@ -160,6 +160,7 @@
 
 ### Bags & Accessories
 
+* HERZ オーバルブリーフケース キャメル
 * Masterpiece リュックサック
 * Ace Gene ビジネスバッグ
 * DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ
