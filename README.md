@@ -7,6 +7,7 @@
 * iPhoneXs スペースグレイ 256GB (SIM Free)
 * ScanSnap ix500
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
+* かえうち2 × 1
 * かえうち x 3
 * かえうち2
 
@@ -16,14 +17,13 @@
 
 * Sartoria Cavuto（サルトリア・カブト） ビスポークスーツ スリーピース（Harrisons、ネイビー無地、段返り3ボタン） /* オーダー中 */
 * 羊屋 ビスポークスーツ ツーピース（ウィンターモヘア、チャコールグレイ、段返り3ボタン）
-* Brioni スーツ (ブルーグレイ)
+* Brioni ツーピース スーツ (ブルーグレイ)
 * Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ) 2パンツ
 * 銀座山形屋 パターンオーダースーツ (グレイ ピンストライプ)
-* 松屋銀座オリジナルスーツ（ネイビー ストライプ ツーピース 段返り3ボタン）
+* 松屋銀座オリジナル アトリエメイド ツーピース スーツ 段返り3ボタン ネイビー シャドーストライプ サイズ46
 * 麻布テーラー パターンオーダースーツ 夏物スーツ (ネイビー)
 * 洋服の青山 夏物スーツ (ネイビー) 2パンツ
 * 洋服の青山 夏物スーツ (グレー) 2パンツ
-* 洋服の青山 礼服 上下 /* 廃棄予定 */
 
 #### Shirts
 
@@ -36,6 +36,7 @@
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
 * 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目)
+* LES LESTON ビスポークシャツ カルロ・リーバ ポプリン サックスブルー無地 ワイドカラー /* オーダー中 */
 * LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
 * LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39
@@ -66,6 +67,7 @@
 
 * Aquascutam ステンカラーコート ネイビー
 * The Scotch House ダウンコート
+* Barbour Bedale ワックスジャケット Sage Green 36
 
 #### Ties
 
@@ -82,7 +84,7 @@
 
 #### Jackets
 
-* 石川和男 ビスポークジャケット ブルー 段返り3ボタン
+* 石川和男 ビスポークジャケット ブルー無地 段返り3ボタン /* オーダー中 */
 * Sartoria Promessa パターンオーダージャケット
 * United Allows green label relaxing ネイビー無地 アンコンストラクテッド・ジャケット
 * United Allows ジャケット
@@ -93,6 +95,7 @@
 * Pantalonaio Osaku Hayato スラックス MTM
 * SHIPS スラックス グレイ
 * PT01 コットンパンツ 白
+* SHINYA デニムジーンズ ネイビー サイズ2
 * JACOB COHEN デニムジーンズ 30/73.5
 * SHINYA デニムジーンズ ネイビー サイズ2
 * UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
@@ -142,12 +145,16 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
+<<<<<<< HEAD
 * KOKON パターンオーダー チャッカブーツ マロン KO-1 7
+=======
+* KOKON パターンオーダー チャッカブーツ マロン 7(25.0cm)
+>>>>>>> d93a0d1eae9edf6e10bbf5a216461b5e6ad37266
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
-* RENDO R7704 Derby PlainToe デュプイ サドルカーフ ダークブラウン 6.5(24.5cm) /* オーダー中 */
+* RENDO R7704 PlainToe Derby MTO デュプイ サドルカーフ ダークブラウン 木型補正有り 6.5(24.5cm) /* オーダー中 */
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
-* 平野靴店 セミオーダー ストレートチップ ダークブラウン 25.0cm /* オーダー中 */
+* 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm /* オーダー中 */
 * 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
@@ -161,7 +168,7 @@
 
 ### Bags & Accessories
 
-* HERZ（ヘルツ） オーバルブリーフケース
+* HERZ（ヘルツ） オーバルブリーフケース キャメル
 * Masterpiece リュックサック
 * Ace Gene ビジネスバッグ
 * DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ
@@ -217,12 +224,6 @@
 * 段ボール4箱分 (自宅)
 * 段ボール7箱分 (実家)
 
-### Audio
-
-* JBL Speaker 4312M Ⅱ      /* 売却予定 */
-* TEAC TurnTable TN-570    /* 売却予定 */
-* ONKYO PreMainAmp R-N855  /* 売却予定 */
-
 ### Miscellaneneous goods
 
 * 段ボール9箱分
@@ -231,8 +232,8 @@
 
 #### Communications
 
-* Softbank Air \4,106/month
-* BIGLOBE モバイル 音声通話付 Aプラン 3GB nano SIM \1,731/month
+* Softbank Air \4,107/month(税込)
+* BIGLOBE モバイル 音声通話付 Dプラン 3GB nano SIM \1,983/month(税込)
 
 #### Web Services
 
