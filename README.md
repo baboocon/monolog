@@ -145,11 +145,7 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
-<<<<<<< HEAD
-* KOKON パターンオーダー チャッカブーツ マロン KO-1 7
-=======
-* KOKON パターンオーダー チャッカブーツ マロン 7(25.0cm)
->>>>>>> d93a0d1eae9edf6e10bbf5a216461b5e6ad37266
+* KOKON パターンオーダー チャッカブーツ マロン KO-1 7(25.0cm)
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7704 PlainToe Derby MTO デュプイ サドルカーフ ダークブラウン 木型補正有り 6.5(24.5cm) /* オーダー中 */
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
