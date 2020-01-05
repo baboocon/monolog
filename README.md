@@ -8,6 +8,7 @@
 * ScanSnap ix500
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
 * かえうち x 3
+* かえうち2
 
 ### Cloths
 
@@ -18,6 +19,7 @@
 * Brioni スーツ (ブルーグレイ)
 * Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ) 2パンツ
 * 銀座山形屋 パターンオーダースーツ (グレイ ピンストライプ)
+* 松屋銀座オリジナルスーツ（ネイビー ストライプ ツーピース 段返り3ボタン）
 * 麻布テーラー パターンオーダースーツ 夏物スーツ (ネイビー)
 * 洋服の青山 夏物スーツ (ネイビー) 2パンツ
 * 洋服の青山 夏物スーツ (グレー) 2パンツ
@@ -76,13 +78,14 @@
 * ストラスブルゴ シルク ネクタイ 紺無地
 * Brioni ネクタイ
 * Sartoria Promessa シルク ネクタイ ベージュ 水玉
+* Nicky ウール100% ネクタイ 臙脂色 格子柄
 
 #### Jackets
 
+* 石川和男 ビスポークジャケット ブルー 段返り3ボタン
 * Sartoria Promessa パターンオーダージャケット
 * United Allows green label relaxing ネイビー無地 アンコンストラクテッド・ジャケット
 * United Allows ジャケット
-* 
 
 #### Pants
 
@@ -91,6 +94,7 @@
 * SHIPS スラックス グレイ
 * PT01 コットンパンツ 白
 * JACOB COHEN デニムジーンズ 30/73.5
+* SHINYA デニムジーンズ ネイビー サイズ2
 * UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
 * UNIQLO スキニーフィットジーンズ テーパード 30/76
 * UNIQLO コーデュロイパンツ ブラウン
@@ -114,6 +118,7 @@
 
 * CARLO RIVAの手巻きポケットチーフ（南シャツ） コットンリネン 水色 無地
 * ストラスブルゴ リネン100% 白 無地
+* Nicky コットンリネン カーキに青の縁取り
 * ブランド不明 リネン100% 白 無地
 
 #### handkerchief
@@ -137,10 +142,12 @@
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
 * Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
-* KOKON パターンオーダー チャッカブーツ ダークブラウン
+* KOKON パターンオーダー チャッカブーツ マロン KO-1 7
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
+* RENDO R7704 Derby PlainToe デュプイ サドルカーフ ダークブラウン 6.5(24.5cm) /* オーダー中 */
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
+* 平野靴店 セミオーダー ストレートチップ ダークブラウン 25.0cm /* オーダー中 */
 * 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
@@ -154,6 +161,7 @@
 
 ### Bags & Accessories
 
+* HERZ（ヘルツ） オーバルブリーフケース
 * Masterpiece リュックサック
 * Ace Gene ビジネスバッグ
 * DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ
