@@ -150,7 +150,7 @@
 * RENDO R7704 PlainToe Derby MTO デュプイ サドルカーフ ダークブラウン 木型補正有り 6.5(24.5cm) /* オーダー中 */
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
-* 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm /* オーダー中 */
+* 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm
 * 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
 * Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
 * Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
