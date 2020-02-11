@@ -29,6 +29,8 @@
 
 ##### Dress Shirts
 
+* 南シャツ ビスポークシャツ DJA シーアイランドコットン 120/2 サックスブルー無地 セミワイドカラー /* オーダー中 */
+* 南シャツ ビスポークシャツ THOMAS MASON コットンリネン 白無地 セミワイドカラー /* オーダー中 */
 * 南シャツ ビスポークシャツ ALUMO コットンリネン サックスブルー ワイドカラー
 * 南シャツ ビスポークシャツ カルロ・リーバ ポプリン ブルー無地 セミワイドカラー
 * 南シャツ ビスポークシャツ DJA シーアイランドコットン 200/2 ブルーストライプ セミワイドカラー
@@ -36,7 +38,7 @@
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
 * 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目)
-* LES LESTON ビスポークシャツ カルロ・リーバ ポプリン サックスブルー無地 ワイドカラー /* オーダー中 */
+* LES LESTON ビスポークシャツ カルロ・リーバ ポプリン サックスブルー無地 ワイドカラー
 * LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
 * LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39
@@ -136,7 +138,7 @@
 ### Shoes
 
 * Yuigo Hayano Bespoke CapToe Oxford ワインハイマー ブラック カーフ
-* Yuigo Hayano Bespoke FullBrogue Oxford ゾンタ ミディアムブラウン カーフ /* オーダー中 */
+* Yuigo Hayano Bespoke FullBrogue Oxford ゾンタ キャメル カーフ
 * JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
 * J.M. Weston #180 Signature Loafer Black Box Calf 6D
@@ -147,7 +149,7 @@
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
 * KOKON パターンオーダー チャッカブーツ マロン KO-1 7(25.0cm)
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
-* RENDO R7704 PlainToe Derby MTO デュプイ サドルカーフ ダークブラウン 木型補正有り 6.5(24.5cm) /* オーダー中 */
+* RENDO R7704 PlainToe Derby MTO デュプイ サドルカーフ ダークブラウン 木型補正有り 6.5(24.5cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
 * 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm
