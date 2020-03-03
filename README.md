@@ -93,6 +93,7 @@
 
 #### Pants
 
+* 尾作隼人 ビスポーク コットンスラックス ベージュ /* オーダー中 */
 * Pantalonaio Osaku Hayato スラックス MTM
 * Pantalonaio Osaku Hayato スラックス MTM
 * SHIPS スラックス グレイ
@@ -111,6 +112,7 @@
 * ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(S) x 5
 * ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(M) x 3 /* 廃棄？ */
 * SEEK ロングホーズ 品番:SXD101 x 1
+* イルレガロ ハイソックス
 * 靴下屋 ソックス
 * UNIQLO ソックス
 * グンゼ SEEK 肌着 キャメル Sサイズ x 3
@@ -139,6 +141,7 @@
 
 * Yuigo Hayano Bespoke CapToe Oxford ワインハイマー ブラック カーフ
 * Yuigo Hayano Bespoke FullBrogue Oxford ゾンタ キャメル カーフ
+* Siroeno Yosui（シロエノヨウスイ） Bespoke ホールカット 鹿革スエード ブラウン /* オーダー中 */
 * JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
 * J.M. Weston #180 Signature Loafer Black Box Calf 6D
@@ -180,6 +183,7 @@
 * Rasp Yen Wallet (JOHN LOBB)
 * HITOE 長財布 ＜厚い革＞の薄い長財布 Camello
 * HITOE 短財布2 Camello
+* HITOE Fole 小さな「薄い財布」 Agave /* オーダー中 */
 * MIC（ミック）コードバン ラウンドファスナー小銭入れ 黒
 * 薄い財布 ブッテーロ・レザーエディション (abrasus)
 * 眼鏡 (lunor)
