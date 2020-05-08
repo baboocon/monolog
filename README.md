@@ -7,9 +7,8 @@
 * iPhoneXs スペースグレイ 256GB (SIM Free)
 * ScanSnap ix500
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
-* かえうち2 × 1
+* かえうち2 x 1
 * かえうち x 3
-* かえうち2
 
 ### Cloths
 
@@ -42,10 +41,8 @@
 * LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
 * LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
 * Camiceria Piccirillo ポプリン ホワイト ベースサイズ:39
-
 * 山本ワイシャツ店 オーダーシャツ ドビー セミワイドカラー
 * 若林シャツ オーダーシャツ ブロード セミワイドカラー 白
-* 高島屋 オーダーシャツ ボタンダウン ランバン
 * 麻布テーラー オーダーシャツ ボタンダウン 白無地
 * カミチャニスタ ドレスシャツ セミワイドカラー 白
 
@@ -60,10 +57,7 @@
 * YAECA コンフォートシャツ リラックス グレー
 * YAECA コンフォートシャツ スタンダード ショート 白 SMALLサイズ
 * YAECA バスクシャツ 白 SMALLサイズ
-* UNITED ALLOWS Beauty & Youth ボタンダウンシャツ 白
-* UNITED ALLOES Beauty & Youth ボタンダウンシャツ グレー
 * SHINYA 半袖Tシャツ 白 Mサイズ
-* Tシャツ ボーダー
 
 #### Coat
 
@@ -73,6 +67,8 @@
 
 #### Ties
 
+* セブンフォールド ビスポーク ネクタイ フランク・スフォデラート 144cm x 9cm シルクジャガード(30124) イニシャル入
+* Atto Vannucci プレーンシルクニットタイ ブルー
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 小紋
@@ -81,7 +77,6 @@
 * Merola セッテピエゲ シルク ネクタイ 紺無地
 * ストラスブルゴ シルク ネクタイ 紺無地
 * Brioni ネクタイ
-* Sartoria Promessa シルク ネクタイ ベージュ 水玉
 * Nicky ウール100% ネクタイ 臙脂色 格子柄
 
 #### Jackets
@@ -94,16 +89,15 @@
 #### Pants
 
 * 尾作隼人 ビスポーク コットンスラックス ベージュ /* オーダー中 */
-* Pantalonaio Osaku Hayato スラックス MTM
-* Pantalonaio Osaku Hayato スラックス MTM
+* Pantalonaio Osaku Hayato スラックス MTM 4053 040180
+* Pantalonaio Osaku Hayato スラックス MTM ミディアムグレイ
+* Pantalonaio Osaku Hayato スラックス MTM ライトグレイ
 * SHIPS スラックス グレイ
 * PT01 コットンパンツ 白
 * SHINYA デニムジーンズ ネイビー サイズ2
 * JACOB COHEN デニムジーンズ 30/73.5
 * SHINYA デニムジーンズ ネイビー サイズ2
 * UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
-* UNIQLO スキニーフィットジーンズ テーパード 30/76
-* UNIQLO コーデュロイパンツ ブラウン
 
 #### Underware
 
@@ -111,14 +105,11 @@
 * ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ ネイビー(S) x 5
 * ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(S) x 5
 * ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(M) x 3 /* 廃棄？ */
-* SEEK ロングホーズ 品番:SXD101 x 1
 * イルレガロ ハイソックス
 * 靴下屋 ソックス
-* UNIQLO ソックス
 * グンゼ SEEK 肌着 キャメル Sサイズ x 3
 * グンゼ SEEK 肌着 キャメル Mサイズ x 2
 * グンゼ SEEK ボクサーブリーフ Mサイズ x 2
-* トランクス メリノウール x 3
 * トランクス UNIQLO
 
 ### Pocket Square
@@ -141,6 +132,7 @@
 
 * Yuigo Hayano Bespoke CapToe Oxford ワインハイマー ブラック カーフ
 * Yuigo Hayano Bespoke FullBrogue Oxford ゾンタ キャメル カーフ
+* Yuigo Hayano Bespoke 3 Eyelet PlainToe Derby 鹿革スエード ダークブラウン /* オーダー中 */
 * Siroeno Yosui（シロエノヨウスイ） Bespoke ホールカット 鹿革スエード ブラウン /* オーダー中 */
 * JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
@@ -183,7 +175,7 @@
 * Rasp Yen Wallet (JOHN LOBB)
 * HITOE 長財布 ＜厚い革＞の薄い長財布 Camello
 * HITOE 短財布2 Camello
-* HITOE Fole 小さな「薄い財布」 Agave /* オーダー中 */
+* HITOE Fole 小さな「薄い財布」 Agave
 * MIC（ミック）コードバン ラウンドファスナー小銭入れ 黒
 * 薄い財布 ブッテーロ・レザーエディション (abrasus)
 * 眼鏡 (lunor)
@@ -201,7 +193,7 @@
 * 玉鋼 両刃包丁4寸
 * 両刃包丁
 * ル・クルーゼ ココットロンド20
-* シリット シラルガン シコーマチック Tプラス 圧力鍋
+* シリット シラルガン シコーマチック Tプラス 圧力鍋 /* 廃棄予定 */
 * グリーンパンプラス 片手鍋
 * 漆器めぐる・日月(花塗り・黒) 三つ組
 * 漆器めぐる・日月(拭き漆・黒) 三つ組
@@ -228,22 +220,21 @@
 
 ### Miscellaneneous goods
 
-* 段ボール9箱分
+* 段ボール5箱分
 
 ### Communications & Web Services
 
 #### Communications
 
-* Softbank Air \4,107/month(税込)
+* Softbank Air \5,370/month(税込)
 * BIGLOBE モバイル 音声通話付 Dプラン 3GB nano SIM \1,983/month(税込)
 
 #### Web Services
 
-* iCloud 25GB \2,500/year
+* iCloud 25GB \1,400/year
 * Amazon Prime \3,900/year
-* Office 365 (Let'sNote RZ6用) \6,264/year /* 解約してもいいか？ */
-* Dropbox plus \12,960/year
-* ムームードメイン baboocon.com \1,592/year /* ペパボの株主優待ポイントを充当 */
-* ムームードメイン bookworminimalist.com \1,592/year /* ペパボの株主優待ポイントを充当 */
+* ムームードメイン baboocon.com \1,628/year /* ペパボの株主優待ポイントを充当 */
+* ムームードメイン nippon-sampo.jp \3,344/year /* ペパボの株主優待ポイントを充当 */
+* ムームードメイン bookworminimalist.com \1,628/year /* 非継続予定 */
 * あすけん ダイエットアプリ プレミアム会員 \300/month
 * 少年ジャンプ＋定期購読 \960/month
