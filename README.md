@@ -28,8 +28,8 @@
 
 ##### Dress Shirts
 
-* 南シャツ ビスポークシャツ DJA シーアイランドコットン 120/2 サックスブルー無地 セミワイドカラー /* オーダー中 */
-* 南シャツ ビスポークシャツ THOMAS MASON コットンリネン 白無地 セミワイドカラー /* オーダー中 */
+* 南シャツ ビスポークシャツ DJA シーアイランドコットン 120/2 サックスブルー無地 セミワイドカラー
+* 南シャツ ビスポークシャツ THOMAS MASON コットンリネン 白無地 セミワイドカラー
 * 南シャツ ビスポークシャツ ALUMO コットンリネン サックスブルー ワイドカラー
 * 南シャツ ビスポークシャツ カルロ・リーバ ポプリン ブルー無地 セミワイドカラー
 * 南シャツ ビスポークシャツ DJA シーアイランドコットン 200/2 ブルーストライプ セミワイドカラー
@@ -37,6 +37,7 @@
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
 * 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目)
+* LES LESTON ビスポークシャツ WEBA OMNIA スーパーメリノウール Super 130's ウール100% サックスブルー ロンドンストライプ ワイドカラー /* オーダー中 */
 * LES LESTON ビスポークシャツ カルロ・リーバ ポプリン サックスブルー無地 ワイドカラー
 * LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
 * LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
@@ -58,6 +59,7 @@
 * YAECA コンフォートシャツ スタンダード ショート 白 SMALLサイズ
 * YAECA バスクシャツ 白 SMALLサイズ
 * SHINYA 半袖Tシャツ 白 Mサイズ
+* UNICLO スーピマコットンクルーネックTシャツ 白 Mサイズ x 3
 
 #### Coat
 
@@ -68,6 +70,7 @@
 #### Ties
 
 * セブンフォールド ビスポーク ネクタイ フランク・スフォデラート 144cm x 9cm シルクジャガード(30124) イニシャル入
+* Atto Vannucci セッテピエゲ シルク ネクタイ 緑地 小紋
 * Atto Vannucci プレーンシルクニットタイ ブルー
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
@@ -75,13 +78,16 @@
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺無地
 * E. Marinella Napoli セッテピエゲ ニット ネクタイ ボルドー
 * Merola セッテピエゲ シルク ネクタイ 紺無地
+* Stefano Bigi シルク ネクタイ 紺地 小紋
 * ストラスブルゴ シルク ネクタイ 紺無地
 * Brioni ネクタイ
 * Nicky ウール100% ネクタイ 臙脂色 格子柄
 
 #### Jackets
 
-* 石川和男 ビスポークジャケット ブルー無地 段返り3ボタン /* オーダー中 */
+* 石川和男 ビスポークジャケット ツイード ブルー無地 段返り3ボタン
+* Mr. Fenice MTMジャケット Porter & Harding ツイード ヘリンボーン /* オーダー中 */
+* Sartoria Raffaniello MTMジャケット ホーランド＆シェリー リネン100% 310g/m^2 ネイビー無地 /* オーダー中 */
 * Sartoria Promessa パターンオーダージャケット
 * United Allows green label relaxing ネイビー無地 アンコンストラクテッド・ジャケット
 * United Allows ジャケット
@@ -93,6 +99,7 @@
 * Pantalonaio Osaku Hayato スラックス MTM ミディアムグレイ
 * Pantalonaio Osaku Hayato スラックス MTM ライトグレイ
 * SHIPS スラックス グレイ
+* PT01 コットンスラックス ライトベージュ
 * PT01 コットンパンツ 白
 * SHINYA デニムジーンズ ネイビー サイズ2
 * JACOB COHEN デニムジーンズ 30/73.5
@@ -104,7 +111,6 @@
 * ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ 黒(S) x 5
 * ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ ネイビー(S) x 5
 * ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(S) x 5
-* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(M) x 3 /* 廃棄？ */
 * イルレガロ ハイソックス
 * 靴下屋 ソックス
 * グンゼ SEEK 肌着 キャメル Sサイズ x 3
@@ -131,31 +137,28 @@
 ### Shoes
 
 * Yuigo Hayano Bespoke CapToe Oxford ワインハイマー ブラック カーフ
-* Yuigo Hayano Bespoke FullBrogue Oxford ゾンタ キャメル カーフ
+* Yuigo Hayano Bespoke FullBrogue Oxford Zonta(Old England?) キャメル カーフ
 * Yuigo Hayano Bespoke 3 Eyelet PlainToe Derby 鹿革スエード ダークブラウン /* オーダー中 */
 * Siroeno Yosui（シロエノヨウスイ） Bespoke ホールカット 鹿革スエード ブラウン /* オーダー中 */
-* JOHN LOBB City 2 CapToe Oxford Black 6EE
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
-* J.M. Weston #180 Signature Loafer Black Box Calf 6D
 * J.M. Weston #641 Golf ApronFront Derby Dark Brown NovoCalf 6E
 * J.M. Weston #641 Golf ApronFront Derby Black RussianCalf 6D
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
-* Crockett & Jones Audley 3 Last:367(CapToe Oxford) 8E
 * Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
-* KOKON パターンオーダー チャッカブーツ マロン KO-1 7(25.0cm)
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7704 PlainToe Derby MTO デュプイ サドルカーフ ダークブラウン 木型補正有り 6.5(24.5cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
+* LECOTT 津久井玲子 パターンオーダー SemiBrogue Oxford アノネイ ベガノカーフ ダークブラウン 6.5E(25.0)
+* KOKON パターンオーダー チャッカブーツ マロン KO-1 7(25.0cm)
 * 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm
 * 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
-* Union Imperial Oxford CapToe U1701 7.5(25.5cm) EEE
-* Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE
+* Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE /* 売却予定 */
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5
-* Birkenstock Gilford 40
-* Birkenstock Menphis 41
+* Birkenstock Gilford 40 /* 売却予定 */
+* Birkenstock Menphis 41 /* 売却予定 */
 * ECCO BIOM Venture 26.0cm
-* PaulStuart Leather Sneaker
+* PaulStuart Leather Sneaker /* 売却予定 */
 * KEEN アウトドアシューズ ジャスパー M 1014036 (Demitasse/Brown Sugar/26.5)
 * Crocs サンダル
 
@@ -164,20 +167,21 @@
 * HERZ（ヘルツ） オーバルブリーフケース キャメル
 * Masterpiece リュックサック
 * Ace Gene ビジネスバッグ
-* DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ
+* DEUX MONCX(デュモンクス) トートバッグ レガート トートバッグ LH ダークグレイ /* 売却予定 */
 * 土屋鞄製造所 トートバッグ ブラウン
 * 土屋鞄製造所 Plota 防水ショルダーバッグ ブラウン
 * Samsonite キャリーケース ARK 36L ブラック
 * GRAND SEIKO 腕時計 SBGY003 スプリングドライブ20周年記念限定モデル
-* GRAND SEIKO 腕時計 SBGH045 機械式
+* GRAND SEIKO 腕時計 SBGH045 機械式 /* 売却予定 */
 * SEIKO 腕時計
-* CASIO ソーラー電波腕時計 /* 売却したい */
+* CASIO ソーラー電波腕時計 /* 売却予定 */
 * Rasp Yen Wallet (JOHN LOBB)
 * HITOE 長財布 ＜厚い革＞の薄い長財布 Camello
 * HITOE 短財布2 Camello
 * HITOE Fole 小さな「薄い財布」 Agave
 * MIC（ミック）コードバン ラウンドファスナー小銭入れ 黒
 * 薄い財布 ブッテーロ・レザーエディション (abrasus)
+* 眼鏡 (増永眼鏡)
 * 眼鏡 (lunor)
 * 眼鏡 (JINS)
 
