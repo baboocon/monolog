@@ -87,7 +87,7 @@
 
 * 石川和男 ビスポークジャケット ツイード ブルー無地 段返り3ボタン
 * Mr. Fenice MTMジャケット Porter & Harding ツイード ヘリンボーン /* オーダー中 */
-* Sartoria Raffaniello MTMジャケット ホーランド＆シェリー リネン100% 310g/m^2 ネイビー無地 /* オーダー中 */
+* Sartoria Raffaniello MTMジャケット ホーランド＆シェリー リネン100% 310g/m^2 ネイビー無地
 * Sartoria Promessa パターンオーダージャケット
 * United Allows green label relaxing ネイビー無地 アンコンストラクテッド・ジャケット
 * United Allows ジャケット
