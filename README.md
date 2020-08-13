@@ -72,7 +72,7 @@
 * セブンフォールド ビスポーク ネクタイ フランク・スフォデラート 144cm x 9cm シルクジャガード(30124) イニシャル入
 * Atto Vannucci セッテピエゲ シルク ネクタイ 緑地 小紋
 * Atto Vannucci プレーンシルクニットタイ ブルー
-* E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋
+* E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋(オーダーメイド)
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 小紋
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺無地
