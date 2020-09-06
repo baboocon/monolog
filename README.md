@@ -5,6 +5,7 @@
 * Let'sNote CF-R9 /* 廃棄予定 */
 * 自作PC (Ryzen7) /* 解体して部品を売却予定 */
 * iPhoneXs スペースグレイ 256GB (SIM Free)
+* Punkt. MP02 /* 売却予定 */
 * ScanSnap ix500
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
 * かえうち2 x 1
@@ -198,6 +199,8 @@
 * 日本橋 木屋 出刃包丁 120mm
 * 玉鋼 両刃包丁4寸
 * 両刃包丁
+* ストウブ ラ・ココット de GOHAN M(16cm) グレー
+* ストウブ ピコ・ココット ラウンド 20cm ブラック
 * ル・クルーゼ ココットロンド20
 * グリーンパンプラス 片手鍋
 * 漆器めぐる・日月(花塗り・黒) 三つ組
