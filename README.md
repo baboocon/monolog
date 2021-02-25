@@ -4,9 +4,9 @@
 * Let'sNote CF-RZ6
 * Let'sNote CF-R9 /* 廃棄予定 */
 * 自作PC (Ryzen7) /* 解体して部品を売却予定 */
-* iPhoneXs スペースグレイ 256GB (SIM Free)
-* Punkt. MP02 /* 売却予定 */
+* iPhone12mini Black 256GB (SIM Free)
 * ScanSnap ix500
+* Happy Hacking Keybord Professional HYBRID Type-S 日本語配列／墨 (無刻印化済)
 * Happy Hacking Keybord Professional JP Type-S (無刻印化済) x 3
 * かえうち2 x 1
 * かえうち x 3
@@ -15,7 +15,7 @@
 
 #### Suits
 
-* Sartoria Cavuto（サルトリア・カブト） ビスポークスーツ スリーピース（Harrisons、ネイビー無地、段返り3ボタン） /* オーダー中 */
+* Sartoria Cavuto（サルトリア・カブト） ビスポークスーツ スリーピース（Harrisons、ネイビー無地、段返り3ボタン）
 * 羊屋 ビスポークスーツ ツーピース（ウィンターモヘア、チャコールグレイ、段返り3ボタン）
 * Brioni ツーピース スーツ (ブルーグレイ)
 * Sartoria Promessa オーダーメイドスーツ スリーピース (ブルーグレイ) 2パンツ
@@ -25,10 +25,36 @@
 * 洋服の青山 夏物スーツ (ネイビー) 2パンツ
 * 洋服の青山 夏物スーツ (グレー) 2パンツ
 
+#### Jackets
+
+* 石川和男 ビスポークジャケット ツイード ブルー無地 段返り3ボタン
+* Mr. Fenice MTMジャケット Porter & Harding ツイード ヘリンボーン
+* Sartoria Raffaniello MTMジャケット ホーランド＆シェリー リネン100% 310g/m^2 ネイビー無地
+* Sartoria Promessa パターンオーダージャケット
+* United Allows green label relaxing ネイビー無地 アンコンストラクテッド・ジャケット
+* United Allows ジャケット
+
+#### Pants
+
+* 尾作隼人 ビスポーク コットンスラックス ベージュ /* オーダー中 */
+* Rota スラックス グレイ
+* Pantalonaio Osaku Hayato スラックス MTM 4053 040180
+* Pantalonaio Osaku Hayato スラックス MTM ミディアムグレイ
+* Pantalonaio Osaku Hayato スラックス MTM ライトグレイ
+* SHIPS スラックス グレイ
+* PT01 コットンスラックス ライトベージュ
+* PT01 コットンパンツ 白
+* SHINYA デニムジーンズ ネイビー サイズ2
+* JACOB COHEN デニムジーンズ 30/73.5
+* SHINYA デニムジーンズ ネイビー サイズ2
+* UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 28/70 紺
+* UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
+
 #### Shirts
 
 ##### Dress Shirts
 
+* 南シャツ ビスポークシャツ Bonfanti フラミンゴ・ツイル 120/2 白無地 セミワイドカラー /* オーダー中 */
 * 南シャツ ビスポークシャツ DJA シーアイランドコットン 120/2 サックスブルー無地 セミワイドカラー
 * 南シャツ ビスポークシャツ THOMAS MASON コットンリネン 白無地 セミワイドカラー
 * 南シャツ ビスポークシャツ ALUMO コットンリネン サックスブルー ワイドカラー
@@ -38,7 +64,7 @@
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
 * 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目)
-* LES LESTON ビスポークシャツ WEBA OMNIA スーパーメリノウール Super 130's ウール100% サックスブルー ロンドンストライプ ワイドカラー /* オーダー中 */
+* LES LESTON ビスポークシャツ WEBA OMNIA スーパーメリノウール Super 130's ウール100% サックスブルー ロンドンストライプ ワイドカラー
 * LES LESTON ビスポークシャツ カルロ・リーバ ポプリン サックスブルー無地 ワイドカラー
 * LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
 * LES LESTON ビスポークシャツ GIZA ロイヤルオックスフォード セミワイドカラー 白
@@ -85,30 +111,6 @@
 * Brioni ネクタイ
 * Nicky ウール100% ネクタイ 臙脂色 格子柄
 
-#### Jackets
-
-* 石川和男 ビスポークジャケット ツイード ブルー無地 段返り3ボタン
-* Mr. Fenice MTMジャケット Porter & Harding ツイード ヘリンボーン /* オーダー中 */
-* Sartoria Raffaniello MTMジャケット ホーランド＆シェリー リネン100% 310g/m^2 ネイビー無地
-* Sartoria Promessa パターンオーダージャケット
-* United Allows green label relaxing ネイビー無地 アンコンストラクテッド・ジャケット
-* United Allows ジャケット
-
-#### Pants
-
-* 尾作隼人 ビスポーク コットンスラックス ベージュ /* オーダー中 */
-* Pantalonaio Osaku Hayato スラックス MTM 4053 040180
-* Pantalonaio Osaku Hayato スラックス MTM ミディアムグレイ
-* Pantalonaio Osaku Hayato スラックス MTM ライトグレイ
-* SHIPS スラックス グレイ
-* PT01 コットンスラックス ライトベージュ
-* PT01 コットンパンツ 白
-* SHINYA デニムジーンズ ネイビー サイズ2
-* JACOB COHEN デニムジーンズ 30/73.5
-* SHINYA デニムジーンズ ネイビー サイズ2
-* UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 28/70 紺
-* UNIQLO ウルトラストレッチ スキニーフィットジーンズ テーパード 29/73 黒
-
 #### Underware
 
 * ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ 黒(S) x 5
@@ -139,10 +141,11 @@
 
 ### Shoes
 
+* Orma di Shimamoto Bespoke FullBrogue Oxford ダークブラウン カーフ /* オーダー中 */
 * Yuigo Hayano Bespoke CapToe Oxford ワインハイマー ブラック カーフ
 * Yuigo Hayano Bespoke FullBrogue Oxford Zonta(Old England?) キャメル カーフ
-* Yuigo Hayano Bespoke 3 Eyelet PlainToe Derby 鹿革スエード ダークブラウン /* オーダー中 */
-* Siroeno Yosui（シロエノヨウスイ） Bespoke ホールカット 鹿革スエード ブラウン /* オーダー中 */
+* Yuigo Hayano Bespoke 3 Eyelet PlainToe Derby 鹿革スエード ダークブラウン
+* Siroeno Yosui（シロエノヨウスイ） Bespoke ホールカット 鹿革スエード 赤茶色
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
 * J.M. Weston #641 Golf ApronFront Derby Dark Brown NovoCalf 6E
 * J.M. Weston #641 Golf ApronFront Derby Black RussianCalf 6D
@@ -211,7 +214,7 @@
 ### Furniture & Appliances
 
 * ローテーブル (MUKU工房 PROTO No.611 テーブルをローテーブルに改造)
-* 本棚屋 本棚 /* 廃棄予定 */
+* 本棚屋 本棚
 * アイロン
 * アイロン台
 * ゴミ箱
@@ -239,7 +242,7 @@
 #### Web Services
 
 * iCloud 25GB \1,400/year
-* Amazon Prime \3,900/year
+* Amazon Prime \4,900/year
 * ムームードメイン baboocon.com \1,628/year /* ペパボの株主優待ポイントを充当 */
 * ムームードメイン nippon-sampo.jp \3,344/year /* ペパボの株主優待ポイントを充当 */
 * ムームードメイン bookworminimalist.com \1,628/year /* 非継続予定 */
