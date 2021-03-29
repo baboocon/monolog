@@ -100,6 +100,8 @@
 * セブンフォールド ビスポーク ネクタイ フランク・スフォデラート 144cm x 9cm シルクジャガード(30124) イニシャル入
 * Atto Vannucci セッテピエゲ シルク ネクタイ 緑地 小紋
 * Atto Vannucci プレーンシルクニットタイ ブルー
+* Atto Vannucci Tomorrow Land 別注 セッテピエゲ シルク ネクタイ ベージュ 小紋
+* Atto Vannucci Brift H 別注 スーツ生地 セッテピエゲ シルク ネクタイ 紺無地
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ ボルドー地 小紋(オーダーメイド)
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 白水玉
 * E. Marinella Napoli セッテピエゲ シルク ネクタイ 紺地 小紋
@@ -158,7 +160,7 @@
 * LECOTT 津久井玲子 パターンオーダー SemiBrogue Oxford アノネイ ベガノカーフ ダークブラウン 6.5E(25.0)
 * KOKON パターンオーダー チャッカブーツ マロン KO-1 7(25.0cm)
 * 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm
-* 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm)
+* 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm) /* 売却予定 */
 * Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE /* 売却予定 */
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5
 * Birkenstock Gilford 40 /* 売却予定 */
