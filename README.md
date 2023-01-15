@@ -28,6 +28,7 @@
 #### Jackets
 
 * 石川和男 ビスポークジャケット ツイード ブルー無地 段返り3ボタン
+* 石川和男 ビスポークジャケット Marling & Evans Undyed British wool 340g/m  段返り3ボタン
 * Mr. Fenice MTMジャケット Porter & Harding ツイード ヘリンボーン
 * Sartoria Raffaniello MTMジャケット ホーランド＆シェリー リネン100% 310g/m^2 ネイビー無地
 * Sartoria Promessa パターンオーダージャケット
@@ -36,7 +37,7 @@
 
 #### Pants
 
-* 尾作隼人 ビスポーク コットンスラックス ベージュ /* オーダー中 */
+* 尾作隼人 ビスポーク コットンスラックス ベージュ
 * Rota スラックス グレイ
 * Pantalonaio Osaku Hayato スラックス MTM 4053 040180
 * Pantalonaio Osaku Hayato スラックス MTM ミディアムグレイ
@@ -54,7 +55,7 @@
 
 ##### Dress Shirts
 
-* 南シャツ ビスポークシャツ Bonfanti フラミンゴ・ツイル 120/2 白無地 セミワイドカラー /* オーダー中 */
+* 南シャツ ビスポークシャツ Bonfanti フラミンゴ・ツイル 120/2 白無地 セミワイドカラー
 * 南シャツ ビスポークシャツ DJA シーアイランドコットン 120/2 サックスブルー無地 セミワイドカラー
 * 南シャツ ビスポークシャツ THOMAS MASON コットンリネン 白無地 セミワイドカラー
 * 南シャツ ビスポークシャツ ALUMO コットンリネン サックスブルー ワイドカラー
@@ -64,6 +65,7 @@
 * 南シャツ ビスポークシャツ DJA セミワイドカラー 白
 * 南シャツ ビスポークシャツ DJA セミワイドカラー サックスブルー
 * 山神シャツ ビスポークシャツ THOMAS MASON Buckingham 白 (はけ目)
+* 山神正則 ビスポークシャツ 福田織物 ヘンプコットン バックサテン ネイビー
 * LES LESTON ビスポークシャツ WEBA OMNIA スーパーメリノウール Super 130's ウール100% サックスブルー ロンドンストライプ ワイドカラー
 * LES LESTON ビスポークシャツ カルロ・リーバ ポプリン サックスブルー無地 ワイドカラー
 * LES LESTON ビスポークシャツ ALUMO 170/2 ブルー ヘアライン セミワイドカラー
@@ -117,7 +119,6 @@
 
 * ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ 黒(S) x 5
 * ハリソン ロングホーズ エジプト綿100% ワイドリブ ロングホーズ ネイビー(S) x 5
-* ハリソン ロングホーズ エジプト綿100% リブホーズ クラシックリンキング 黒(S) x 5
 * イルレガロ ハイソックス
 * 靴下屋 ソックス
 * グンゼ SEEK 肌着 キャメル Sサイズ x 3
@@ -138,33 +139,30 @@
 
 #### Goods
 
-* ネクタイピン x 2
+* ネクタイピン
 * カフス
 
 ### Shoes
 
-* Orma di Shimamoto Bespoke FullBrogue Oxford ダークブラウン カーフ /* オーダー中 */
+* Orma di Shimamoto Bespoke FullBrogue Oxford ダークブラウン カーフ
 * Yuigo Hayano Bespoke CapToe Oxford ワインハイマー ブラック カーフ
 * Yuigo Hayano Bespoke FullBrogue Oxford Zonta(Old England?) キャメル カーフ
 * Yuigo Hayano Bespoke 3 Eyelet PlainToe Derby 鹿革スエード ダークブラウン
+* Yuigo Hayano Bespoke Inlock with Rope Seam Lake ホーウィン シェルコードバン バーボン /* オーダー中 */
 * Siroeno Yosui（シロエノヨウスイ） Bespoke ホールカット 鹿革スエード 赤茶色
 * J.M. Weston #330 CapToe Oxford Black Box Calf 6/E
 * J.M. Weston #641 Golf ApronFront Derby Dark Brown NovoCalf 6E
 * J.M. Weston #641 Golf ApronFront Derby Black RussianCalf 6D
 * Crockett & Jones Audley Last:337(CapToe Oxford) 6.5E
-* Enzo Bonafe Double Monk Strap Carl Freudenberg Box Calf Black 5.5
 * RENDO R7701D CapToe Oxford ラバーソール 7(25.0cm)
 * RENDO R7704 PlainToe Derby MTO デュプイ サドルカーフ ダークブラウン 木型補正有り 6.5(24.5cm)
 * RENDO R7708 FullBrogue Oxford MTO アノネイ アニリンカーフ Black 7(25.0cm)
 * RENDO GB001 Apronfront Derby MTO 羽根:アノネイ ボカルーカーフ バーガンディ アッパー:ベルーガ グレインレザー レッドからバーガンディに染め 7(25.0cm)
+* RENDO R1113sp サイドエラスティック キャップトゥ ユタカーフ黒xクロムエクセル黒 6.5
 * LECOTT 津久井玲子 パターンオーダー SemiBrogue Oxford アノネイ ベガノカーフ ダークブラウン 6.5E(25.0)
 * KOKON パターンオーダー チャッカブーツ マロン KO-1 7(25.0cm)
 * 平野靴店 セミオーダー CapToe Oxford Zonta Old England チョコ 25.0cm
-* 伊勢丹メンズオリジナル デイリーシューズ CapToe Oxford アノネイ 黒 6.5(24.5cm) /* 売却予定 */
-* Scotch Grain アデレード パンチドキャップトゥ ダークブラウン ヨーロピアンカーフ 24.5cm EEE /* 売却予定 */
 * Heinrich Dinkelacker Rio PlainToe Derby Shell Cordovan Black 6.5
-* Birkenstock Gilford 40 /* 売却予定 */
-* Birkenstock Menphis 41 /* 売却予定 */
 * ECCO BIOM Venture 26.0cm
 * PaulStuart Leather Sneaker /* 売却予定 */
 * KEEN アウトドアシューズ ジャスパー M 1014036 (Demitasse/Brown Sugar/26.5)
@@ -238,8 +236,7 @@
 
 #### Communications
 
-* Softbank Air \5,370/month(税込)
-* BIGLOBE モバイル 音声通話付 Dプラン 3GB nano SIM \1,983/month(税込)
+* 日本通信 6GB nano SIM \1,393/month(税込)
 
 #### Web Services
 
@@ -248,5 +245,5 @@
 * ムームードメイン baboocon.com \1,628/year /* ペパボの株主優待ポイントを充当 */
 * ムームードメイン nippon-sampo.jp \3,344/year /* ペパボの株主優待ポイントを充当 */
 * ムームードメイン bookworminimalist.com \1,628/year /* 非継続予定 */
-* あすけん ダイエットアプリ プレミアム会員 \300/month
 * 少年ジャンプ＋定期購読 \960/month
+* AbemaTV プレミアム \960/month
